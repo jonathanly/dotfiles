@@ -15,5 +15,4 @@ source $ZSH/oh-my-zsh.sh
 source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
-
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=143'
