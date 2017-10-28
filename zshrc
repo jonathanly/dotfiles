@@ -1,6 +1,6 @@
 ###  PATHS  ###
 export PATH="$PATH:$HOME/.rvm/bin"
-export ZSH=/Users/jonathanly/.dotfiles/oh-my-zsh
+export ZSH=/Users/jonathanly/.oh-my-zsh
 export EDITOR=atom
 
 ZSH_THEME="agnoster"
